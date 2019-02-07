@@ -1,0 +1,29 @@
+{
+  "name": "ursa-wrapper",
+  "version": "1.0.0",
+  "description": "A wrapper around ursa to make it easier to encrypt and decrypt with a key pair",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rageshkrishna/ursa-wrapper.git"
+  },
+  "keywords": [
+    "ursa",
+    "crypto"
+  ],
+  "author": "Ragesh Krishna <ragesh@rageshkrishna.com>",
+  "license": "CC-BY-SA-3.0",
+  "bugs": {
+    "url": "https://github.com/rageshkrishna/ursa-wrapper/issues"
+  },
+  "homepage": "https://github.com/rageshkrishna/ursa-wrapper#readme",
+  "jshintConfig": {
+    "node": true
+  },
+  "dependencies": {
+    "ursa": "^0.9.4"
+  }
+}
